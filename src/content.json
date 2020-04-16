@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Color Space",
+		"category": "browser-app",
+		"tags": ["color", "generator", "browser based"],
+		"description": "",
+		"apptype": "url",
+		"more": {
+			"url": "https://mycolor.space"
+		}
+	},
+	{
+		"name": "Online GUID Generator",
+		"category": "browser-app",
+		"tags": ["guid", "generator"],
+		"description": "Generate upto 2000 guids with a click of a button",
+		"apptype": "url",
+		"more": {
+			"url": "https://www.guidgenerator.com"
+		}
+	},
+	{
+		"name": "Regexr",
+		"category": "browser-app",
+		"tags": ["regular", "expressions", ""],
+		"description": "Write regular expressions and test it on the go",
+		"apptype": "url",
+		"more": {
+			"url": "https://regexr.com"
+		}
+	},
+	{
+		"name": "CSS Reference",
+		"category": "documentation",
+		"tags": [],
+		"description": "The complete CSS documentation all at one place, with examples",
+		"apptype": "url",
+		"more": {
+			"url": "https://cssreference.io"
+		}
+	}
+]
